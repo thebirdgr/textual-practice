@@ -1,0 +1,12 @@
+{
+    "status": {
+        "event_1": true,
+        "event_2": true,
+        "event_3": true,
+        "event_4": true,
+        "main1_process": true,
+        "main2_process": true,
+        "main3_process": true
+    },
+    "status_id": 1
+}
